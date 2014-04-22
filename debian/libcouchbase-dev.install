@@ -1,3 +1,2 @@
 usr/include/libcouchbase
-usr/lib/*.la
 usr/lib/libcouchbase.so
